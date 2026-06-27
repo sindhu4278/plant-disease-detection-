@@ -1,0 +1,5 @@
+Apple___Black_rot
+Apple___healthy
+Corn___Common_rust
+Tomato___Bacterial_spot
+Tomato___healthy
